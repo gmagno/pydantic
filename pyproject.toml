@@ -62,7 +62,7 @@ dependencies = [
     'typing-extensions>=4.6.1',
     'annotated-types>=0.4.0',
     # "pydantic-core==2.7.0",
-    "pydantic-core @ git+https://github.com/pydantic/pydantic-core@main"
+    "pydantic-core @ git+https://github.com/pydantic/pydantic-core@6769140dfb4cbe817567344308d3d492ef0e677e"
 ]
 dynamic = ['version', 'readme']
 
